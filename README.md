@@ -1,4 +1,4 @@
-Вот так выглядит сайт
+Вот так выглядит страница
 
 ![image](https://github.com/Lookingworld2014/HTMLandCSS/assets/124498579/29207dc7-84a7-4918-8959-7805fcf4361d)
 ![image](https://github.com/Lookingworld2014/HTMLandCSS/assets/124498579/b57161de-a952-4fa6-886e-7ba1e3ac695f)
