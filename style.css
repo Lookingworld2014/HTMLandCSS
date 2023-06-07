@@ -1,0 +1,29 @@
+body {
+    background-color: coral;
+}
+
+p {
+    background-color: chartreuse;
+}
+
+h1 {
+    color: aqua;
+}
+
+h2 {
+    color: blue;
+}
+
+a {
+    background-color: cornsilk;
+    color: gold;
+}
+
+strong {
+    color: bisque;
+    background-color: blueviolet;
+}
+
+em {
+    color: darkviolet;
+}
