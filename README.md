@@ -5,3 +5,4 @@
 ![image](https://github.com/Lookingworld2014/HTMLandCSS/assets/124498579/4a610728-72b0-4e2c-9ae4-89cdedabaf6e)
 
 P.S Увлеклась! Не влез на один скрин))
+а путь с папкой было делать лень...
